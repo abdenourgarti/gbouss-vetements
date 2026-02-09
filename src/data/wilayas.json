@@ -1,0 +1,408 @@
+[
+  {
+    "id": 1,
+    "code": "01",
+    "designation": "Adrar",
+    "prix_bureau": 800,
+    "prix_domicile": 1200
+  },
+  {
+    "id": 2,
+    "code": "02",
+    "designation": "Chlef",
+    "prix_bureau": 600,
+    "prix_domicile": 900
+  },
+  {
+    "id": 3,
+    "code": "03",
+    "designation": "Laghouat",
+    "prix_bureau": 700,
+    "prix_domicile": 1000
+  },
+  {
+    "id": 4,
+    "code": "04",
+    "designation": "Oum El Bouaghi",
+    "prix_bureau": 600,
+    "prix_domicile": 900
+  },
+  {
+    "id": 5,
+    "code": "05",
+    "designation": "Batna",
+    "prix_bureau": 650,
+    "prix_domicile": 950
+  },
+  {
+    "id": 6,
+    "code": "06",
+    "designation": "Béjaïa",
+    "prix_bureau": 550,
+    "prix_domicile": 850
+  },
+  {
+    "id": 7,
+    "code": "07",
+    "designation": "Biskra",
+    "prix_bureau": 650,
+    "prix_domicile": 950
+  },
+  {
+    "id": 8,
+    "code": "08",
+    "designation": "Béchar",
+    "prix_bureau": 900,
+    "prix_domicile": 1300
+  },
+  {
+    "id": 9,
+    "code": "09",
+    "designation": "Blida",
+    "prix_bureau": 400,
+    "prix_domicile": 600
+  },
+  {
+    "id": 10,
+    "code": "10",
+    "designation": "Bouira",
+    "prix_bureau": 500,
+    "prix_domicile": 750
+  },
+  {
+    "id": 11,
+    "code": "11",
+    "designation": "Tamanrasset",
+    "prix_bureau": 1200,
+    "prix_domicile": 1800
+  },
+  {
+    "id": 12,
+    "code": "12",
+    "designation": "Tébessa",
+    "prix_bureau": 700,
+    "prix_domicile": 1000
+  },
+  {
+    "id": 13,
+    "code": "13",
+    "designation": "Tlemcen",
+    "prix_bureau": 700,
+    "prix_domicile": 1000
+  },
+  {
+    "id": 14,
+    "code": "14",
+    "designation": "Tiaret",
+    "prix_bureau": 650,
+    "prix_domicile": 950
+  },
+  {
+    "id": 15,
+    "code": "15",
+    "designation": "Tizi Ouzou",
+    "prix_bureau": 500,
+    "prix_domicile": 750
+  },
+  {
+    "id": 16,
+    "code": "16",
+    "designation": "Alger",
+    "prix_bureau": 300,
+    "prix_domicile": 500
+  },
+  {
+    "id": 17,
+    "code": "17",
+    "designation": "Djelfa",
+    "prix_bureau": 600,
+    "prix_domicile": 900
+  },
+  {
+    "id": 18,
+    "code": "18",
+    "designation": "Jijel",
+    "prix_bureau": 600,
+    "prix_domicile": 900
+  },
+  {
+    "id": 19,
+    "code": "19",
+    "designation": "Sétif",
+    "prix_bureau": 550,
+    "prix_domicile": 850
+  },
+  {
+    "id": 20,
+    "code": "20",
+    "designation": "Saïda",
+    "prix_bureau": 650,
+    "prix_domicile": 950
+  },
+  {
+    "id": 21,
+    "code": "21",
+    "designation": "Skikda",
+    "prix_bureau": 600,
+    "prix_domicile": 900
+  },
+  {
+    "id": 22,
+    "code": "22",
+    "designation": "Sidi Bel Abbès",
+    "prix_bureau": 650,
+    "prix_domicile": 950
+  },
+  {
+    "id": 23,
+    "code": "23",
+    "designation": "Annaba",
+    "prix_bureau": 650,
+    "prix_domicile": 950
+  },
+  {
+    "id": 24,
+    "code": "24",
+    "designation": "Guelma",
+    "prix_bureau": 650,
+    "prix_domicile": 950
+  },
+  {
+    "id": 25,
+    "code": "25",
+    "designation": "Constantine",
+    "prix_bureau": 600,
+    "prix_domicile": 900
+  },
+  {
+    "id": 26,
+    "code": "26",
+    "designation": "Médéa",
+    "prix_bureau": 500,
+    "prix_domicile": 750
+  },
+  {
+    "id": 27,
+    "code": "27",
+    "designation": "Mostaganem",
+    "prix_bureau": 600,
+    "prix_domicile": 900
+  },
+  {
+    "id": 28,
+    "code": "28",
+    "designation": "M'Sila",
+    "prix_bureau": 600,
+    "prix_domicile": 900
+  },
+  {
+    "id": 29,
+    "code": "29",
+    "designation": "Mascara",
+    "prix_bureau": 650,
+    "prix_domicile": 950
+  },
+  {
+    "id": 30,
+    "code": "30",
+    "designation": "Ouargla",
+    "prix_bureau": 800,
+    "prix_domicile": 1200
+  },
+  {
+    "id": 31,
+    "code": "31",
+    "designation": "Oran",
+    "prix_bureau": 600,
+    "prix_domicile": 900
+  },
+  {
+    "id": 32,
+    "code": "32",
+    "designation": "El Bayadh",
+    "prix_bureau": 750,
+    "prix_domicile": 1100
+  },
+  {
+    "id": 33,
+    "code": "33",
+    "designation": "Illizi",
+    "prix_bureau": 1300,
+    "prix_domicile": 1900
+  },
+  {
+    "id": 34,
+    "code": "34",
+    "designation": "Bordj Bou Arreridj",
+    "prix_bureau": 550,
+    "prix_domicile": 850
+  },
+  {
+    "id": 35,
+    "code": "35",
+    "designation": "Boumerdès",
+    "prix_bureau": 400,
+    "prix_domicile": 600
+  },
+  {
+    "id": 36,
+    "code": "36",
+    "designation": "El Tarf",
+    "prix_bureau": 700,
+    "prix_domicile": 1000
+  },
+  {
+    "id": 37,
+    "code": "37",
+    "designation": "Tindouf",
+    "prix_bureau": 1400,
+    "prix_domicile": 2000
+  },
+  {
+    "id": 38,
+    "code": "38",
+    "designation": "Tissemsilt",
+    "prix_bureau": 650,
+    "prix_domicile": 950
+  },
+  {
+    "id": 39,
+    "code": "39",
+    "designation": "El Oued",
+    "prix_bureau": 750,
+    "prix_domicile": 1100
+  },
+  {
+    "id": 40,
+    "code": "40",
+    "designation": "Khenchela",
+    "prix_bureau": 700,
+    "prix_domicile": 1000
+  },
+  {
+    "id": 41,
+    "code": "41",
+    "designation": "Souk Ahras",
+    "prix_bureau": 700,
+    "prix_domicile": 1000
+  },
+  {
+    "id": 42,
+    "code": "42",
+    "designation": "Tipaza",
+    "prix_bureau": 400,
+    "prix_domicile": 600
+  },
+  {
+    "id": 43,
+    "code": "43",
+    "designation": "Mila",
+    "prix_bureau": 600,
+    "prix_domicile": 900
+  },
+  {
+    "id": 44,
+    "code": "44",
+    "designation": "Aïn Defla",
+    "prix_bureau": 500,
+    "prix_domicile": 750
+  },
+  {
+    "id": 45,
+    "code": "45",
+    "designation": "Naâma",
+    "prix_bureau": 800,
+    "prix_domicile": 1200
+  },
+  {
+    "id": 46,
+    "code": "46",
+    "designation": "Aïn Témouchent",
+    "prix_bureau": 650,
+    "prix_domicile": 950
+  },
+  {
+    "id": 47,
+    "code": "47",
+    "designation": "Ghardaïa",
+    "prix_bureau": 750,
+    "prix_domicile": 1100
+  },
+  {
+    "id": 48,
+    "code": "48",
+    "designation": "Relizane",
+    "prix_bureau": 600,
+    "prix_domicile": 900
+  },
+  {
+    "id": 49,
+    "code": "49",
+    "designation": "Timimoun",
+    "prix_bureau": 900,
+    "prix_domicile": 1350
+  },
+  {
+    "id": 50,
+    "code": "50",
+    "designation": "Bordj Badji Mokhtar",
+    "prix_bureau": 1500,
+    "prix_domicile": 2100
+  },
+  {
+    "id": 51,
+    "code": "51",
+    "designation": "Ouled Djellal",
+    "prix_bureau": 700,
+    "prix_domicile": 1000
+  },
+  {
+    "id": 52,
+    "code": "52",
+    "designation": "Béni Abbès",
+    "prix_bureau": 1000,
+    "prix_domicile": 1500
+  },
+  {
+    "id": 53,
+    "code": "53",
+    "designation": "In Salah",
+    "prix_bureau": 1100,
+    "prix_domicile": 1600
+  },
+  {
+    "id": 54,
+    "code": "54",
+    "designation": "In Guezzam",
+    "prix_bureau": 1400,
+    "prix_domicile": 2000
+  },
+  {
+    "id": 55,
+    "code": "55",
+    "designation": "Touggourt",
+    "prix_bureau": 800,
+    "prix_domicile": 1200
+  },
+  {
+    "id": 56,
+    "code": "56",
+    "designation": "Djanet",
+    "prix_bureau": 1400,
+    "prix_domicile": 2000
+  },
+  {
+    "id": 57,
+    "code": "57",
+    "designation": "El M'Ghair",
+    "prix_bureau": 800,
+    "prix_domicile": 1200
+  },
+  {
+    "id": 58,
+    "code": "58",
+    "designation": "El Meniaa",
+    "prix_bureau": 850,
+    "prix_domicile": 1250
+  }
+]
